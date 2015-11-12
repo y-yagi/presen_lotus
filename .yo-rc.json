@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "lotus",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "y-yagi",
+    "githubRepository": ""
+  }
+}
