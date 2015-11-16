@@ -7,4 +7,4 @@
   * [Announcing Lotus — Luca Guidi](http://lucaguidi.com/2014/01/01/announcing-lotus.html)
   * リリースされて2年もたっていない
 * 最新バージョンは0.5.0(2015/11/12 時点)
-* [Domain name service and DNS services - Easy DNS hosting with DNSimple - DNSimple](https://dnsimple.com/)や、[Envato](http://www.envato.com/) でもう使われているとの事
+* [DNSimple](https://dnsimple.com/)や、[Envato](http://www.envato.com/) でもう使われているとの事

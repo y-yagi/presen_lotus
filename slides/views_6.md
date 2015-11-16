@@ -5,7 +5,8 @@
   * デフォルトでは`application.html.erb`が使用される
 * Layoutの指定は、グローバル、アクション単位、どちらでも可能
   * アクション単位の場合は、view classで`layout`メソッドを呼び出す
-``ruby
+
+```ruby
 module Web::Views::Books
   class New
     include Web::View
